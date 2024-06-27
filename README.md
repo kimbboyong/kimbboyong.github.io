@@ -1,1 +1,1 @@
-# kimbboyong.github.io
+# git blog init
